@@ -1,0 +1,6 @@
+{
+  "name": "Ананасовый улун — Чайный Бум",
+  "description": "Светлый фуцзяньский улун с ароматом ананаса. Фасовки 100–5000 г.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
